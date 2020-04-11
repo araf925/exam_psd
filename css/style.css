@@ -1,0 +1,329 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+.box{
+	background-image: url("../images/city-bridge-cityscape-istanbul-45189.jpg");
+	background-repeat: no-repeat;
+	color: white;
+	overflow: hidden;
+}
+.wrapper{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+.esc{
+	width: 40%;
+	float: left;
+	margin: auto;
+	padding: 35px 5px 5px 5px;
+}
+.esc img{
+	float: left;
+
+}
+.esc span{
+	font-size: 20px;
+	font-weight: 900;
+}
+.navi{
+	width: 50%;
+	float: right;
+	padding: 25px 0px 0px 0px;
+}
+.navi ul{
+	float: right;
+	list-style: none;
+}
+.navi ul li{
+	float: left;
+}
+.navi ul li a{
+	text-decoration: none;
+	color: white;
+	margin: 0px 20px 0px 0px;
+	transition: 0.7s;
+}
+.navi ul li a:hover{
+	color:black;
+}
+.wrapper2{
+	text-align: center;
+	width: 60%;
+	margin: auto;
+	padding: 60px 0px 30px 0px;
+}
+.wrapper2 button{
+	border: 2px solid white;
+	background: transparent;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 500;
+	color: white;
+	font-size: 18px;
+	margin: 65px 0px 35px 0px;
+	padding: 15px 60px;
+	transition: 1s;
+
+}
+.wrapper2 button:hover{
+	background-color: #ddd;
+	color: black;
+
+}
+.box2{
+	overflow: hidden;
+	margin: 20px 0px;
+}
+.wrapper3{
+	width: 70%;
+	margin: auto;
+}
+.text{
+	float: left;
+	width: 60%;
+}
+.text h2{
+	font-weight: 350;
+}
+.image{
+	float: left;
+	width: 30%;
+	padding-left: 86px;
+	padding-top: 30px;
+
+}
+.box3{
+	overflow: hidden;
+	background-color: #FAFAFA;
+	padding: 70px 0px;
+}
+.text2{
+	float: right;
+	width: 60%;
+}
+.text2 h2{
+	font-weight: 350;
+}
+.image2{
+	float: right;
+	width: 30%;
+	padding-right: 86px;
+	padding-top: 30px;
+}
+.section{
+	overflow: hidden;
+	width: 80%;
+	margin: auto;
+	margin-bottom: 50px;
+}
+.single{
+	width: 40%;
+	float: left;
+	padding: 20px 0px 5px 50px;
+	transition: 0.8s;
+}
+.single:hover{
+	box-shadow: 20px 20px 50px grey;
+
+}
+.single img{
+	width: 20%;
+	float: left;
+	padding-top: 35px;
+}
+.single div{
+	width: 40%;
+	float: left;
+	padding-left: 20px;
+}
+.single div h5{
+	font-size: 13px;
+	font-weight: 900;
+}
+.single div p{
+	font-weight: 300;
+	font-size: 11px;
+}
+.single:nth-child(even){
+	margin-left: 90px;
+}
+.box4{
+	overflow: hidden;
+	background-color: #FAFAFA;
+}
+.wrapper4{
+    width: 70%;
+    margin: auto;
+}
+.text3{
+   text-align: center;
+}
+.text3 h2{
+font-weight: 300;
+font-size: 35px;
+}
+.text3 p{
+	font-size: 12px;
+	font-weight: 300;
+}
+.box5{
+     overflow: hidden;
+}
+.black{	
+       float: left;
+       width: 30%;
+       height: 200px;
+       width: 200px;
+       background-color: black;
+       border-radius: 250px;
+       margin: 10px 15px 55px 50px;
+
+}
+.client_talk{
+	float: right;
+	width: 50%;
+	text-align: center;
+	background-color: white;
+    margin: 40px 0px 0px 40px;
+    padding: 5px 5px 5px 5px;
+}
+.black2{	
+       float: right;
+       width: 30%;
+       height: 200px;
+       width: 200px;
+       background-color: black;
+       border-radius: 250px;
+       margin: 10px 15px 55px 50px;
+
+}
+.client_talk2{
+	float: left;
+	width: 50%;
+	text-align: center;
+	background-color: white;
+    margin: 40px 0px 0px 40px;
+    padding: 5px 5px 5px 5px;
+}
+.small{
+	width: 60%;
+	margin: auto;
+	overflow: hidden;
+}
+
+.list_img ul{
+	float: left;
+	list-style: none;
+
+}
+.list_img ul li{
+	float: left;
+	padding: 25px 22px 5px 5px;
+}
+.box6{
+	overflow: hidden;
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding: 75px 0px 75px 0px;
+}
+.black_wrapper{
+	width: 70%;
+	margin: auto;
+}
+
+.team{
+    overflow: hidden;
+}
+.team h2{
+	font-weight: 350;
+	font-size: 32px;
+	line-height: 1px;
+}
+.team p{
+	font-weight: 350;
+	font-size: 13px; 
+}
+.another{
+	float: left;
+	width: 30%;
+	margin: 5px 5px 5px 5px; 
+}
+.bs{
+	background-color: black;
+	width: 60%;
+	height: 160px;
+	border: 5px solid white;
+	border-radius: 90px;
+	margin-left: 46px;
+}
+.last_box{
+	overflow: hidden;
+	background-color:#768FC5;
+	color: white;
+}
+.last_wrapper{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+	border-bottom: 0.5px solid white;
+}
+.left{
+	width: 40%;
+	float: left;
+}
+.left h2{
+	font-size: 35px;
+	font-weight: 350;
+}
+.left p{
+	font-weight: 300;
+	font-size: 12px;
+}
+.list1{
+  width: 40%;
+  float: left;
+  font-size: 10px;
+}
+.list1 ul{
+	float: left;
+}
+.list1 ul li{
+	list-style: none;
+}
+.list2{
+width: 40%;
+float: left;
+font-size: 10px;
+}
+.list2 ul{
+	float: left;
+}
+.list2 ul li{
+	list-style: none;
+}
+.right{
+	padding-top: 27px;
+	width: 50%;
+	float: right;
+	text-align: center;
+}
+.form{
+
+}
+.name{
+	height: 30px;
+	width: 100%;
+	margin-bottom: 10px;
+
+}
+.email{
+	height: 30px;
+	width: 100%;
+	margin-bottom: 10px;
+
+}.message{
+	height: 100px;
+	width: 100%;
+
+}
